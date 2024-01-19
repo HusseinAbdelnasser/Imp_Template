@@ -1,0 +1,87 @@
+[
+    {
+        "image":"./img/portfolio/app-1.jpg",
+        "class":"box  col-lg-4 col-md-4 mb-3 all app mix",
+        "h5":"App 1",
+        "p":"Lorem ipsum, dolor sit amet consectetur",
+        "alt": "App 1"
+    },
+    {
+        "image":"./img/portfolio/product-1.jpg",
+        "class":"box col-lg-4 col-md-6 mb-3 all product mix",
+        "h5":"Product 1",
+        "p":"Lorem ipsum, dolor sit amet consectetur",
+        "alt": "Product 1"
+    },
+    {
+        "image":"./img/portfolio/branding-1.jpg",
+        "class":" box col-lg-4 col-md-6 mb-3 all branding mix",
+        "h5":"Branding 1",
+        "p":"Lorem ipsum, dolor sit amet consectetur",
+        "alt": "Branding 1"
+    },
+    {
+        "image":"./img/portfolio/books-1.jpg",
+        "class": "box col-lg-4 col-md-6 mb-3 all book mix",
+        "h5":"Book 1",
+        "p":"Lorem ipsum, dolor sit amet consectetur",
+        "alt": "Book 1"
+    },
+    {
+        "image":"./img/portfolio/app-2.jpg",
+        "class":" box col-lg-4 col-md-6 mb-3 all app mix",
+        "h5":"App 2",
+        "p":"Lorem ipsum, dolor sit amet consectetur",
+        "alt": "App 2"
+    },
+    {
+        "image":"./img/portfolio/product-2.jpg",
+        "class":"box col-lg-4 col-md-6 mb-3 all product mix",
+        "h5":"Product 2",
+        "p":"Lorem ipsum, dolor sit amet consectetur",
+        "alt": "Product 2"
+    },
+    {
+        "image":"./img/portfolio/branding-2.jpg",
+        "class":"box col-lg-4 col-md-6 mb-3 all branding mix",
+        "h5":"Branding 2",
+        "p":"Lorem ipsum, dolor sit amet consectetur",
+        "alt": "Branding 3"
+    },
+    {
+        "image":"./img/portfolio/books-2.jpg",
+        "class":"box col-lg-4 col-md-6 mb-3 all book mix",
+        "h5":"Book 2",
+        "p":"Lorem ipsum, dolor sit amet consectetur",
+        "alt": "Book 2"
+    },
+    {
+        "image":"./img/portfolio/app-3.jpg",
+        "class":"box col-lg-4 col-md-6 mb-3 all app mix",
+        "h5":"App 3",
+        "p":"Lorem ipsum, dolor sit amet consectetur",
+        "alt": "App 3"
+    },
+    {
+        "image":"./img/portfolio/product-3.jpg",
+        "class":"box col-lg-4 col-md-6 all product mix",
+        "h5":"Product 3",
+        "p":"Lorem ipsum, dolor sit amet consectetur",
+        "alt": "Product 3"
+    },
+    {
+        "image":"./img/portfolio/branding-3.jpg",
+        "class":"box col-lg-4 col-md-6 mb-3 all branding mix" ,
+        "h5":"Branding 3",
+        "p":"Lorem ipsum, dolor sit amet consectetur",
+        "alt": "Branding 3"
+    },
+    {
+        "image":"./img/portfolio/books-3.jpg",
+        "class":"box col-lg-4 col-md-6 all book mix",
+        "h5":"Book 3",
+        "p":"Lorem ipsum, dolor sit amet consectetur",
+        "alt": "Book 3"
+    }
+]
+
